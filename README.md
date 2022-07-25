@@ -23,18 +23,20 @@ attempts to predict the preference and find similarities between users and items
 
 ### Dependency Libraries
 
-- TensorFlow 2.0
-- TensorFlow Reomenders (TFRS)
-- keras
-- numpy
+- TensorFlow 
+- Pandas
+- Numpy
+- Matplotlib
+- Scann
 
 ### Installation Commands
 I'm working on Microsoft OS and Ubuntu 16.04 LTS so command for installating all dependancies are given below.
 ```bash
-Tensorflow:       $ sudo pip install tensorflow
-numpy:            $ sudo pip install numpy
-scikit-learn:     $ sudo pip install -U scikit-learn
-matplotlib:       $ sudo pip install matplotlib 
+tensorflow:         $ sudo pip install tensorflow  
+pandas:             $ sudo pip install pandas
+numpy:              $ sudo pip install numpy
+matplotlib:         $ sudo pip install matplotlib 
+scann:              $ sudo pip install scann
 ```
 
 ## Project Resources
