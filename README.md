@@ -4,8 +4,9 @@
 The challenges related to food systems and security are complex and urgent. The world relies on sustainable agriculture, resilient supply chains, and the availability of healthy food. In Indonesia, as an agricultural country, we benefit from this sector. But the problem is, that the market has its standards for selling agricultural products, and products that do not fulfill the standards will be discarded because of their appearance. 
 
 In this project, we plan to create a marketplace to sell these products at lower prices. Correspondingly, we can improve the farmer’s economy, and supply chain efficiency, and prevent food loss and waste.
+
 <p align="center">
-  <img width="200" src="https://user-images.githubusercontent.com/99207624/180708197-3060b97d-e87f-4682-81a3-a9f43e201e7c.png" alt="logo">
+  <img width="200" src="https://user-images.githubusercontent.com/99207624/180720722-4b467fa7-b8ae-4d37-8208-2d1234cf25ce.png" alt="logo">
 </p>
 
 ## Apps Features
