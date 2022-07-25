@@ -6,16 +6,13 @@ The challenges related to food systems and security are complex and urgent. The 
 In this project, we plan to create a marketplace to sell these products at lower prices. Correspondingly, we can improve the farmer’s economy, and supply chain efficiency, and prevent food loss and waste.
 
 <p align="center">
-  <img width="200" src="https://user-images.githubusercontent.com/99207624/180720722-4b467fa7-b8ae-4d37-8208-2d1234cf25ce.png" alt="logo">
+  <img width="400" src="https://user-images.githubusercontent.com/99207624/180738578-3dbb93ef-4abf-4917-8a2e-7de79e42c75c.png" alt="logo">
 </p>
 
 ## Apps Features
-
-- Cart Feature
-- Checkout Feature
-- Rating Feature
-- Dark Mode
-
+<p align="center">
+  <img width="800" src="https://user-images.githubusercontent.com/99207624/180739052-5132f5fe-c5d5-437f-bd95-d26fb3b72575.png" alt="features">
+</p>
 
 ## Personal Task
 During this project, I have developed a recommendation system that 
