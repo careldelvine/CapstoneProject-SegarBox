@@ -32,7 +32,6 @@ I'm working on Microsoft OS and Ubuntu 16.04 LTS so command for installating all
 ```bash
 Tensorflow:       $ sudo pip install tensorflow
 numpy:            $ sudo pip install numpy
-scipy:            $ sudo pip install scipy
 scikit-learn:     $ sudo pip install -U scikit-learn
 matplotlib:       $ sudo pip install matplotlib 
 ```
